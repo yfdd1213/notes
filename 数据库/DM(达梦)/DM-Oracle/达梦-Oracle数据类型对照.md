@@ -1,0 +1,37 @@
+---
+tags:
+  - 数据类型
+---
+
+| ORACLE | DM | 注释 |
+| --- | --- | --- |
+| VARCHAR2 | VARCHAR2 |  |
+| NVARCHAR2 | NVARCHAR |  |
+| NCHAR | CHAR |  |
+| LONG | TEXT |  |
+| RAW | VARBINARY |  |
+| LONG RAW | LONGVARBINARY |  |
+| NCLOB | CLOB |  |
+| DATE | TIMESTAMP |  |
+| INTERVALDS | INTERVAL DAY TO SECOND |  |
+| INTERVALYM | INTERVAL YEAR TO MONTH |  |
+| ROWID | BINARY |  |
+| NROWID | VARBINARY |  |
+| UROWID | VARBINARY |  |
+| REF | LONGVARBINARY |  |
+| STRUCT | LONGVARBINARY |  |
+| ARRAY | LONGVARBINARY |  |
+| STRUCT | LONGVARBINARY |  |
+| ARRAY | LONGVARBINARY |  |
+| AQ$_SUBSCRIBERS| LONGVARBINARY |  |
+| BOOL | BIT |  |
+| BOOLEAN | BIT |  |
+| XMLTYPE | CLOB |  |
+| SYS.XMLTYPE | CLOB |  |
+| BINARY_FLOAT | FLOAT |  |
+| BINARY_DOUBLE | DOUBLE |  |
+| NUMBER | NUMBER | 如果精度为126标度为-127,则映射为FLOAT;
+如果精度为63标度-127,则映射为REAL;
+否则映射为NUMBER |
+
+[https://www.modb.pro/db/552585](https://www.modb.pro/db/552585)

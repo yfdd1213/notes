@@ -1,0 +1,30 @@
+{
+  "name": "sliding-panes-obsidian",
+  "version": "3.4.0",
+  "description": "Sliding Panes (Andy Matuschak Mode) plugin for Obsidian (https://obsidian.md)",
+  "main": "main.js",
+  "scripts": {
+    "instal-deps": "npm install",
+    "dev": "rollup --config rollup.config.js -w",
+    "build": "rollup --config rollup.config.js"
+  },
+  "keywords": [],
+  "author": "death_au",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deathau/sliding-panes-obsidian"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^22.0.0",
+    "@rollup/plugin-node-resolve": "^13.3.0",
+    "@rollup/plugin-typescript": "^8.3.3",
+    "@types/node": "^18.0.0",
+    "obsidian": "^0.15.3",
+    "rollup": "^2.75.7",
+    "rollup-plugin-scss": "^3.0.0",
+    "sass": "^1.52.3",
+    "tslib": "^2.4.0",
+    "typescript": "^4.7.4"
+  }
+}

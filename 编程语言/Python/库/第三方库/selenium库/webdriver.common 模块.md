@@ -1,0 +1,24 @@
+##### webdriver.common 模块
+- [[common.actions 模块]]  构建简单动作
+- common.action_chains 模块
+	- [[class selenium.webdriver.common.action_chains.ActionChains]]  用于执行复杂的用户操作，如鼠标悬停、拖放等
+- common.alert  模块
+	- [[class selenium.webdriver.common.alert.Alert]]  弹窗
+- common.by  模块
+	- [[class selenium.webdriver.common.by.By]]  定位元素策略
+- common.keys  模块
+	- [[class selenium.webdriver.common.keys.Keys]] 一组特殊键盘按键
+- common.print_page_options  模块
+	- [[class selenium.webdriver.common.print_page_options.PrintOptions]]  PDF选项
+- common.log  模块
+- common.proxy  模块
+- common.utils  模块
+---
+- common.desired_capabilities  模块
+- common.timeouts  模块
+- common.window  模块
+- common.service  模块
+	- selenium.webdriver.common.service.Service  服务抽象基类。
+- common.options  模块
+	- class selenium.webdriver.common.options.ArgOptions  选项类
+	- class selenium.webdriver.common.options.BaseOptions  选项抽象基类

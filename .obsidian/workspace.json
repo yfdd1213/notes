@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "90780d5b0f7d3fdc",
+    "type": "split",
+    "children": [
+      {
+        "id": "c719bcfe50a08b38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69eebff9558bc112",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "93fb1cf6203cd245",
+    "type": "split",
+    "children": [
+      {
+        "id": "4854b01afbcbb6c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45bfeb2c9992f71f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "de00063e0dc5359b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0ee3a547ab6c378e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fff2823537b7332c",
+    "type": "split",
+    "children": [
+      {
+        "id": "af5fac34eac6bb03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7de800c60425b215",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "0f60fb4681151897",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae4ef6c970530964",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fd8acf2de5f62e8e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "random-note:开始漫游笔记": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "canvas:新建白板": false
+    }
+  },
+  "active": "69eebff9558bc112",
+  "lastOpenFiles": [
+    "未命名.canvas",
+    "日记/2023-11-07.md",
+    "notes",
+    "日记/2023-11-06.md",
+    "日记/template.md",
+    "notes.md",
+    "日记",
+    "数据库/DM(达梦)/登录失败次数超过限制.md",
+    "2023-11-06.md",
+    "数据库/DM(达梦)/DM达梦数据库.md",
+    "数据库/数据库.md",
+    "编程语言/Python/库/标准库/并发.md",
+    "数据库/vertica/拟造循环条数.md",
+    "数据库/vertica/vertica.md",
+    "编程语言/Python/1. Python.md",
+    "ETL工具/kettle/将上一步的表输入作为参数传入下一个表输入.md",
+    "ETL工具/kettle/kettle.md",
+    "ETL工具/kettle/使用kettle抽数过程中数据类型报错.md",
+    "ETL工具/kettle/kettle选择后续插件并行.md",
+    "BI工具/MAGIC-API/with多个查询，参数使用两次报错.md",
+    "数据库/mysql/按照指定字符分割字符串.md",
+    "数据库/DM(达梦)/查看数据库编码格式.md",
+    "数据库/vertica/本年所有周的时间维度表.md",
+    "数据库/vertica/分组拼接字符串.md",
+    "数据库/vertica/函数.md",
+    "数据库/vertica/获取时间中的年份.md",
+    "数据库/vertica/行转列.md",
+    "数据库/vertica/造数据，随机id.md",
+    "编程语言",
+    "BI工具",
+    "ETL工具",
+    "数据库",
+    "Python/未命名",
+    "obsidian练习/Pasted image 20231101125008.png",
+    "Pasted image 20231101124721.png",
+    "obsidian练习",
+    "notes.rar"
+  ]
+}
