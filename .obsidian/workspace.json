@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-11-08.md",
+                "file": "notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-11-08.md",
+                "file": "notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-11-08.md",
+                "file": "notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-11-08.md"
+                "file": "notes.md"
               }
             }
           }
@@ -149,19 +149,19 @@
   },
   "active": "69eebff9558bc112",
   "lastOpenFiles": [
-    "ob.md",
+    "未命名.canvas",
+    "notes.md",
     "日记/2023-11-08.md",
+    "ob.md",
     "yfddtest.md",
     "数据库/oracle/判断字符串的数据类型格式.md",
     "数据库/vertica/随机整数函数.md",
     "数据库/vertica/随机字符函数.md",
     "新建文本文档.txt",
-    "未命名.canvas",
     "日记/2023-11-07.md",
     "notes",
     "日记/2023-11-06.md",
     "日记/template.md",
-    "notes.md",
     "日记",
     "数据库/DM(达梦)/登录失败次数超过限制.md",
     "2023-11-06.md",
@@ -178,7 +178,6 @@
     "BI工具/MAGIC-API/with多个查询，参数使用两次报错.md",
     "数据库/mysql/按照指定字符分割字符串.md",
     "数据库/DM(达梦)/查看数据库编码格式.md",
-    "数据库/vertica/本年所有周的时间维度表.md",
     "编程语言",
     "BI工具",
     "ETL工具",
