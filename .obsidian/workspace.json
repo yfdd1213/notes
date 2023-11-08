@@ -149,6 +149,9 @@
   },
   "active": "45bfeb2c9992f71f",
   "lastOpenFiles": [
+    "数据库/oracle/判断字符串的数据类型格式.md",
+    "数据库/vertica/随机整数函数.md",
+    "数据库/vertica/随机字符函数.md",
     "新建文本文档.txt",
     "日记/2023-11-08.md",
     "未命名.canvas",
@@ -176,8 +179,6 @@
     "数据库/vertica/本年所有周的时间维度表.md",
     "数据库/vertica/分组拼接字符串.md",
     "数据库/vertica/函数.md",
-    "数据库/vertica/获取时间中的年份.md",
-    "数据库/vertica/行转列.md",
     "编程语言",
     "BI工具",
     "ETL工具",
