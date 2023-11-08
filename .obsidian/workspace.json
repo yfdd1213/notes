@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-11-08.md",
+                "file": "1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-11-08.md",
+                "file": "1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-11-08.md",
+                "file": "1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-11-08.md"
+                "file": "1.md"
               }
             }
           }
@@ -149,11 +149,12 @@
   },
   "active": "69eebff9558bc112",
   "lastOpenFiles": [
+    "日记/2023-11-08.md",
+    "1.md",
     "1.txt",
     "1",
     "未命名.canvas",
     "notes.md",
-    "日记/2023-11-08.md",
     "ob.md",
     "yfddtest.md",
     "数据库/oracle/判断字符串的数据类型格式.md",
@@ -186,7 +187,6 @@
     "数据库",
     "Python/未命名",
     "obsidian练习/Pasted image 20231101125008.png",
-    "Pasted image 20231101124721.png",
-    "obsidian练习"
+    "Pasted image 20231101124721.png"
   ]
 }
