@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b7d37d5493dd6e23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Template/template-python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-11-09.md",
+                "file": "Template/template-python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-11-09.md",
+                "file": "Template/template-python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-11-09.md"
+                "file": "Template/template-python.md"
               }
             }
           }
@@ -148,10 +161,13 @@
       "canvas:新建白板": false
     }
   },
-  "active": "69eebff9558bc112",
+  "active": "b7d37d5493dd6e23",
   "lastOpenFiles": [
-    "日记/template.md",
+    "Template/template-sql.md",
+    "Template/template-python.md",
     "日记/2023-11-09.md",
+    "Template",
+    "日记/template.md",
     "obsidian练习/标签练习.md",
     "数据库/oracle/利用正则表达返回根据字符切割的值.md",
     "日记/2023-11-06.md",
@@ -180,13 +196,10 @@
     "编程语言/Python/1. Python.md",
     "ETL工具/kettle/将上一步的表输入作为参数传入下一个表输入.md",
     "ETL工具/kettle/kettle.md",
-    "ETL工具/kettle/使用kettle抽数过程中数据类型报错.md",
-    "ETL工具/kettle/kettle选择后续插件并行.md",
     "编程语言",
     "BI工具",
     "ETL工具",
     "数据库",
-    "Python/未命名",
     "obsidian练习/Pasted image 20231101125008.png",
     "Pasted image 20231101124721.png"
   ]
