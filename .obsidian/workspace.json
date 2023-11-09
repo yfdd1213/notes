@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/template-python.md",
+                "file": "Template/template-sql.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/template-python.md",
+                "file": "Template/template-sql.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/template-python.md",
+                "file": "Template/template-sql.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/template-python.md"
+                "file": "Template/template-sql.md"
               }
             }
           }
@@ -163,9 +163,9 @@
   },
   "active": "b7d37d5493dd6e23",
   "lastOpenFiles": [
+    "日记/2023-11-09.md",
     "Template/template-sql.md",
     "Template/template-python.md",
-    "日记/2023-11-09.md",
     "Template",
     "日记/template.md",
     "obsidian练习/标签练习.md",
