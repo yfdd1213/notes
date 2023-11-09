@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian练习/标签练习.md",
+                "file": "日记/2023-11-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian练习/标签练习.md",
+                "file": "日记/2023-11-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian练习/标签练习.md",
+                "file": "日记/2023-11-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian练习/标签练习.md"
+                "file": "日记/2023-11-09.md"
               }
             }
           }
@@ -151,8 +150,10 @@
   },
   "active": "69eebff9558bc112",
   "lastOpenFiles": [
-    "数据库/oracle/利用正则表达返回根据字符切割的值.md",
+    "日记/template.md",
+    "日记/2023-11-09.md",
     "obsidian练习/标签练习.md",
+    "数据库/oracle/利用正则表达返回根据字符切割的值.md",
     "日记/2023-11-06.md",
     "日记/2023-11-07.md",
     "日记/2023-11-08.md",
@@ -168,7 +169,6 @@
     "数据库/vertica/随机字符函数.md",
     "新建文本文档.txt",
     "notes",
-    "日记/template.md",
     "日记",
     "数据库/DM(达梦)/登录失败次数超过限制.md",
     "2023-11-06.md",
@@ -182,7 +182,6 @@
     "ETL工具/kettle/kettle.md",
     "ETL工具/kettle/使用kettle抽数过程中数据类型报错.md",
     "ETL工具/kettle/kettle选择后续插件并行.md",
-    "BI工具/MAGIC-API/with多个查询，参数使用两次报错.md",
     "编程语言",
     "BI工具",
     "ETL工具",
