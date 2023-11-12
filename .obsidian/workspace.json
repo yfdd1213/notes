@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-11-10.md",
+                "file": "日记/2023-11-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-11-10.md",
+                "file": "日记/2023-11-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-11-10.md",
+                "file": "日记/2023-11-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-11-10.md"
+                "file": "日记/2023-11-12.md"
               }
             }
           }
@@ -162,8 +162,9 @@
   },
   "active": "69eebff9558bc112",
   "lastOpenFiles": [
-    "日记/2023-11-09.md",
     "日记/2023-11-10.md",
+    "日记/2023-11-12.md",
+    "日记/2023-11-09.md",
     "Template/template-sql.md",
     "Template/template-python.md",
     "Template",
@@ -194,7 +195,6 @@
     "数据库/vertica/拟造循环条数.md",
     "数据库/vertica/vertica.md",
     "编程语言/Python/1. Python.md",
-    "ETL工具/kettle/将上一步的表输入作为参数传入下一个表输入.md",
     "编程语言",
     "BI工具",
     "ETL工具",
