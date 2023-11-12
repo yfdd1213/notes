@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "69eebff9558bc112",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日记/2023-11-12.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b7d37d5493dd6e23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/template-sql.md",
+                "file": "日记/2023-11-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,15 +148,16 @@
       "canvas:新建白板": false
     }
   },
-  "active": "69eebff9558bc112",
+  "active": "b7d37d5493dd6e23",
   "lastOpenFiles": [
-    "日记/2023-11-10.md",
-    "日记/2023-11-12.md",
-    "日记/2023-11-09.md",
+    "日记/2023-11-11.md",
+    "日记/template.md",
     "Template/template-sql.md",
+    "日记/2023-11-12.md",
+    "日记/2023-11-10.md",
+    "日记/2023-11-09.md",
     "Template/template-python.md",
     "Template",
-    "日记/template.md",
     "obsidian练习/标签练习.md",
     "数据库/oracle/利用正则表达返回根据字符切割的值.md",
     "日记/2023-11-06.md",
@@ -194,7 +183,6 @@
     "编程语言/Python/库/标准库/并发.md",
     "数据库/vertica/拟造循环条数.md",
     "数据库/vertica/vertica.md",
-    "编程语言/Python/1. Python.md",
     "编程语言",
     "BI工具",
     "ETL工具",
