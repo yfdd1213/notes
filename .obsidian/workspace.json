@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c719bcfe50a08b38",
+        "id": "49d4bdeb19114e35",
         "type": "tabs",
         "children": [
           {
-            "id": "b7d37d5493dd6e23",
+            "id": "3c6e29782d280bd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-11-22.md",
+                "file": "日记/2023-11-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-11-22.md",
+                "file": "日记/2023-11-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-11-22.md",
+                "file": "日记/2023-11-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-11-22.md"
+                "file": "日记/2023-11-23.md"
               }
             }
           }
@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,11 +149,12 @@
       "canvas:新建白板": false
     }
   },
-  "active": "b7d37d5493dd6e23",
+  "active": "3c6e29782d280bd8",
   "lastOpenFiles": [
+    "日记/2023-11-23.md",
+    "日记/2023-11-22.md",
     "日记/2023-11-21.md",
     "日记/2023-11-20.md",
-    "日记/2023-11-22.md",
     "日记/2023-11-19.md",
     "日记/2023-11-18.md",
     "日记/2023-11-17.md",
@@ -179,7 +181,6 @@
     "未命名.canvas",
     "notes.md",
     "ob.md",
-    "yfddtest.md",
     "新建文本文档.txt",
     "notes",
     "日记",
