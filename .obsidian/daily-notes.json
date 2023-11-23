@@ -1,5 +1,5 @@
 {
   "autorun": true,
-  "template": "日记/template",
+  "template": "Template/template-diary",
   "folder": "日记"
 }
