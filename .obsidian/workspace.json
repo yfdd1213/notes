@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程语言/Python/工作脚本/pyinstaller打包exe.md",
+                "file": "日记/2023-11-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程语言/Python/工作脚本/pyinstaller打包exe.md",
+                "file": "日记/2023-11-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编程语言/Python/工作脚本/pyinstaller打包exe.md",
+                "file": "日记/2023-11-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程语言/Python/工作脚本/pyinstaller打包exe.md"
+                "file": "日记/2023-11-24.md"
               }
             }
           }
@@ -151,6 +151,8 @@
   },
   "active": "3c6e29782d280bd8",
   "lastOpenFiles": [
+    "编程语言/Python/工作脚本/pyinstaller打包exe.md",
+    "日记/2023-11-24.md",
     "Template/template-diary.md",
     "日记/2023-11-23.md",
     "日记/2023-11-22.md",
@@ -179,8 +181,6 @@
     "1.txt",
     "1",
     "未命名.canvas",
-    "notes.md",
-    "ob.md",
     "新建文本文档.txt",
     "notes",
     "日记",
