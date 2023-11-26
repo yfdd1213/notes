@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-11-24.md",
+                "file": "日记/2023-11-26.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-11-24.md",
+                "file": "日记/2023-11-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-11-24.md",
+                "file": "日记/2023-11-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-11-24.md"
+                "file": "日记/2023-11-26.md"
               }
             }
           }
@@ -151,11 +151,13 @@
   },
   "active": "3c6e29782d280bd8",
   "lastOpenFiles": [
-    "日记/2023-11-22.md",
     "日记/2023-11-23.md",
+    "日记/2023-11-26.md",
     "日记/2023-11-24.md",
-    "编程语言/Python/工作脚本/pyinstaller打包exe.md",
+    "日记/2023-11-25.md",
     "Template/template-diary.md",
+    "日记/2023-11-22.md",
+    "编程语言/Python/工作脚本/pyinstaller打包exe.md",
     "日记/2023-11-21.md",
     "日记/2023-11-20.md",
     "日记/2023-11-19.md",
@@ -176,8 +178,6 @@
     "数据库/oracle/利用正则表达返回根据字符切割的值.md",
     "日记/2023-11-06.md",
     "日记/2023-11-07.md",
-    "日记/2023-11-08.md",
-    "1.md",
     "1.txt",
     "1",
     "未命名.canvas",
