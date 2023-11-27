@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-11-25.md",
+                "file": "日记/2023-11-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-11-25.md",
+                "file": "日记/2023-11-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-11-25.md",
+                "file": "日记/2023-11-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-11-25.md"
+                "file": "日记/2023-11-27.md"
               }
             }
           }
@@ -151,11 +151,12 @@
   },
   "active": "3c6e29782d280bd8",
   "lastOpenFiles": [
+    "日记/2023-11-25.md",
+    "日记/2023-11-27.md",
     "日记/2023-11-26.md",
     "Template/template-diary.md",
     "日记/2023-11-23.md",
     "日记/2023-11-24.md",
-    "日记/2023-11-25.md",
     "日记/2023-11-22.md",
     "编程语言/Python/工作脚本/pyinstaller打包exe.md",
     "日记/2023-11-21.md",
@@ -177,7 +178,6 @@
     "obsidian练习/标签练习.md",
     "数据库/oracle/利用正则表达返回根据字符切割的值.md",
     "日记/2023-11-06.md",
-    "日记/2023-11-07.md",
     "1.txt",
     "1",
     "未命名.canvas",
