@@ -13,43 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-12-03.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "58543846bfd2840d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "50c1e3c1ebaf0d7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "24504cf98eae9d1f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b21d9a663b20eefc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "M、。.md",
+                "file": "日记/2023-12-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-12-03.md",
+                "file": "日记/2023-12-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-12-03.md",
+                "file": "日记/2023-12-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-12-03.md"
+                "file": "日记/2023-12-01.md"
               }
             }
           }
@@ -187,16 +151,18 @@
   },
   "active": "3c6e29782d280bd8",
   "lastOpenFiles": [
-    "日记/2023-11-30.md",
-    "日记/2023-12-03.md",
-    "M、。.md",
+    "Template/template-diary.md",
+    "日记/2023-12-02.md",
     "未命名.md",
+    "日记/2023-12-01.md",
+    "日记/2023-12-03.md",
+    "日记/2023-11-30.md",
+    "M、。.md",
     "日记/2023-11-29.md",
     "日记/2023-11-28.md",
     "日记/2023-11-27.md",
     "日记/2023-11-25.md",
     "日记/2023-11-26.md",
-    "Template/template-diary.md",
     "日记/2023-11-23.md",
     "日记/2023-11-24.md",
     "日记/2023-11-22.md",
@@ -211,8 +177,6 @@
     "日记/2023-11-15.md",
     "日记/2023-11-13.md",
     "日记/2023-11-12.md",
-    "日记/2023-11-11.md",
-    "日记/2023-11-10.md",
     "Template",
     "1.txt",
     "1",
