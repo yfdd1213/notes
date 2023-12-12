@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-12-11.md",
+                "file": "日记/2023-12-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-12-11.md",
+                "file": "日记/2023-12-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-12-11.md",
+                "file": "日记/2023-12-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-12-11.md"
+                "file": "日记/2023-12-12.md"
               }
             }
           }
@@ -151,10 +151,11 @@
   },
   "active": "3c6e29782d280bd8",
   "lastOpenFiles": [
+    "日记/2023-12-11.md",
+    "日记/2023-12-12.md",
     "日记/2023-12-10.md",
     "日记/2023-12-09.md",
     "未命名.canvas",
-    "日记/2023-12-11.md",
     "Template/template-diary.md",
     "Template/template-python.md",
     "Template/template-sql.md",
@@ -177,7 +178,6 @@
     "日记/2023-11-24.md",
     "日记/2023-11-22.md",
     "编程语言/Python/工作脚本/pyinstaller打包exe.md",
-    "日记/2023-11-21.md",
     "Template",
     "1.txt",
     "1",
