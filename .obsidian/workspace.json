@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-12-27.md",
+                "file": "日记/2023-12-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-12-27.md",
+                "file": "日记/2023-12-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-12-27.md",
+                "file": "日记/2023-12-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-12-27.md"
+                "file": "日记/2023-12-30.md"
               }
             }
           }
@@ -165,6 +165,7 @@
   "active": "cb6b3aefa0be0142",
   "lastOpenFiles": [
     "日记/2023-12-27.md",
+    "日记/2023-12-30.md",
     "日记/2023-12-25.md",
     "日记/2023-12-26.md",
     "日记/2023-12-24.md",
@@ -190,7 +191,6 @@
     "日记/2023-12-07.md",
     "日记/2023-12-06.md",
     "日记/2023-12-05.md",
-    "日记/2023-12-04.md",
     "Template",
     "1.txt",
     "1",
