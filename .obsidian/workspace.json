@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-01-15.md",
+                "file": "日记/2024-01-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-01-15.md",
+                "file": "日记/2024-01-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-01-15.md",
+                "file": "日记/2024-01-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-01-15.md"
+                "file": "日记/2024-01-16.md"
               }
             }
           }
@@ -151,8 +151,10 @@
   },
   "active": "cb6b3aefa0be0142",
   "lastOpenFiles": [
-    "日记/2024-01-14.md",
     "日记/2024-01-15.md",
+    "日记/2024-01-14.md",
+    "日记/2024-01-16.md",
+    "日记/2024-01-17.md",
     "日记/2024-01-13.md",
     "日记/2024-01-12.md",
     "日记/2024-01-11.md",
@@ -175,8 +177,6 @@
     "日记/2023-12-26.md",
     "日记/2023-12-24.md",
     "日记/2023-12-23.md",
-    "日记/2023-12-22.md",
-    "日记/2023-12-21.md",
     "未命名.canvas",
     "Template",
     "1.txt",
