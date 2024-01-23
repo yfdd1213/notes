@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-01-19.md",
+                "file": "日记/2024-01-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-01-19.md",
+                "file": "日记/2024-01-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-01-19.md",
+                "file": "日记/2024-01-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-01-19.md"
+                "file": "日记/2024-01-20.md"
               }
             }
           }
@@ -164,6 +164,7 @@
   },
   "active": "0e7f3e11881676eb",
   "lastOpenFiles": [
+    "日记/2024-01-19.md",
     "日记/2024-01-18.md",
     "日记/2024-01-15.md",
     "日记/2024-01-16.md",
@@ -172,7 +173,6 @@
     "日记/2024-01-22.md",
     "日记/2024-01-21.md",
     "日记/2024-01-20.md",
-    "日记/2024-01-19.md",
     "notes.md",
     "未命名.md",
     "ETL工具/ETL工具.md",
