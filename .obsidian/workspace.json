@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-01-27.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e7f3e11881676eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日记/2024-01-25.md",
+                "file": "日记/2024-01-28.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-01-27.md",
+                "file": "日记/2024-01-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-01-27.md",
+                "file": "日记/2024-01-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-01-27.md"
+                "file": "日记/2024-01-28.md"
               }
             }
           }
@@ -163,10 +151,10 @@
   },
   "active": "cb6b3aefa0be0142",
   "lastOpenFiles": [
+    "日记/2024-01-27.md",
     "日记/2024-01-26.md",
     "日记/2024-01-25.md",
     "日记/2024-01-24.md",
-    "日记/2024-01-27.md",
     "日记/2024-01-28.md",
     "日记/2024-01-23.md",
     "日记/2024-01-22.md",
