@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-01-01.md",
+                "file": "日记/未命名 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-01-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-01-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-01-01.md"
+                "file": "未命名.md"
               }
             }
           }
@@ -149,15 +147,19 @@
       "canvas:新建白板": false
     }
   },
-  "active": "cb6b3aefa0be0142",
+  "active": "45bfeb2c9992f71f",
   "lastOpenFiles": [
+    "日记/未命名 1.md",
+    "未命名.md",
+    "日记/未命名.md",
+    "未命名.canvas",
+    "日记/2024-01-01.md",
     "日记/2024-02-01.md",
     "日记/2024-02-18.md",
     "日记/2024-01-31.md",
     "日记/2024-01-30.md",
     "日记/2024-01-29.md",
     "日记/2024-01-28.md",
-    "未命名.md",
     "日记/2024-01-27.md",
     "日记/2024-01-26.md",
     "日记/2024-01-25.md",
@@ -174,10 +176,6 @@
     "notes.md",
     "ETL工具/ETL工具.md",
     "obsidian练习/标签练习.md",
-    "日记/2024-01-14.md",
-    "日记/2024-01-13.md",
-    "日记/2024-01-12.md",
-    "未命名.canvas",
     "Template",
     "1.txt",
     "1",
