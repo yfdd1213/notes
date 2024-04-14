@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f7966594e1749ea4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/2024-04-14.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-03-26.md",
+                "file": "日记/2024-04-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-03-26.md",
+                "file": "日记/2024-04-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-03-26.md"
+                "file": "日记/2024-04-14.md"
               }
             }
           }
@@ -149,8 +162,9 @@
       "canvas:新建白板": false
     }
   },
-  "active": "00445eb05e4481b6",
+  "active": "f7966594e1749ea4",
   "lastOpenFiles": [
+    "日记/2024-04-14.md",
     "日记/2024-03-25.md",
     "日记/2024-03-26.md",
     "日记/2024-03-24.md",
@@ -176,7 +190,6 @@
     "日记/2024-03-07.md",
     "日记/2024-03-06.md",
     "随笔.md",
-    "日记/2024-03-05.md",
     "未命名.canvas",
     "Template",
     "1.txt",
